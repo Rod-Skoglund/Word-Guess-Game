@@ -1,0 +1,39 @@
+/* ********************************************* */
+/* Class - Coding Bootcamp MW                    */
+/* Assignment #2 - Responsive Portfolio          */
+/* Author: Rod Skoglund                          */
+/* Stype Sheet for index page of Assignment #2   */
+/* ********************************************* */
+
+body, html {
+    height: 100%;
+    margin: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: #777777;
+    background-color: black;
+}
+
+p {
+    padding: 10px;
+}
+
+#game {
+    font-family: 'Permanent Marker', cursive;
+    /* height: 100%;
+    width: 100%; */
+}
+
+#main-img {
+    position: absolute; 
+    top: 0;
+    left: 30%;
+    height: 20%; 
+    width: 40%;
+    margin: 0 auto;
+}
+
+#info-stats {
+    text-align: center;
+    color: white;
+    
+}
